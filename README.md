@@ -11,3 +11,6 @@ for Git training demos.
 This is a simple web project, deployent can be on any web server
 or even on the local file system.
 ## How to Contribute
+
+### Copyright
+Siddharth.Training
