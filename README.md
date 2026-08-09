@@ -14,4 +14,4 @@ or even on the local file system.
 ## How to Contribute
 Please fork this repository and then add Pull Requests for review
 ### Copyright
-Siddharth.Training
+Siddharth.Training - All right reserved
